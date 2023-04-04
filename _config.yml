@@ -1,0 +1,11 @@
+title: "my openwrt releases | downloads"
+email:
+description: ""
+
+remote_theme: openlumi/wiki
+baseurl: "/releases"
+
+minima:
+  search_path: /releases/search.html
+  social_links:
+    github: berlin4apk
