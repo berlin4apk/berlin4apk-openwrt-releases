@@ -13,8 +13,8 @@
 | 🗄️ [openwrt-x86-64-generic-ext4-combined-efi.img.gz](./openwrt-x86-64-generic-ext4-combined-efi.img.gz) | 12M | |
 | 🗄️ [openwrt-x86-64-generic-ext4-combined.img.gz](./openwrt-x86-64-generic-ext4-combined.img.gz) | 11M | |
 | 🗄️ [openwrt-x86-64-generic-ext4-rootfs.img.gz](./openwrt-x86-64-generic-ext4-rootfs.img.gz) | 5.5M | |
-| 🗄️ [openwrt-x86-64-generic-image-efi.iso](./openwrt-x86-64-generic-image-efi.iso) | 22M | |
-| 🗄️ [openwrt-x86-64-generic-image.iso](./openwrt-x86-64-generic-image.iso) | 21M | |
+| 🗄️ [openwrt-x86-64-generic-image-efi.iso](./openwrt-x86-64-generic-image-efi.iso) | 21M | |
+| 🗄️ [openwrt-x86-64-generic-image.iso](./openwrt-x86-64-generic-image.iso) | 20M | |
 | 🗄️ [openwrt-x86-64-generic-kernel.bin](./openwrt-x86-64-generic-kernel.bin) | 5.2M | |
 | 🗄️ [openwrt-x86-64-generic-rootfs.tar.gz](./openwrt-x86-64-generic-rootfs.tar.gz) | 5.4M | |
 | 🗄️ [openwrt-x86-64-generic-squashfs-combined-efi.img.gz](./openwrt-x86-64-generic-squashfs-combined-efi.img.gz) | 10M | |
