@@ -31,7 +31,7 @@ Architecture: x86_64
 Installed-Size: 231285
 Filename: busybox_1.35.0-5_x86_64.ipk
 Size: 232208
-SHA256sum: bc9198b67749abd7ecfd4e1bf37877a364dd06a3ac6cc01e2244b980679f1ff9
+SHA256sum: 85a43a4dd2abe9baace0af98493cff805c5361db0854d4ea2c066a5eba16f80e
 Description:  The Swiss Army Knife of embedded Linux.
  It slices, it dices, it makes Julian Fries.
 
