@@ -378,10 +378,10 @@ SourceDateEpoch: 1639519150
 ABIVersion: 1
 Maintainer: Felix Fietkau <nbd@nbd.name>
 Architecture: x86_64
-Installed-Size: 15652
+Installed-Size: 15615
 Filename: libnl-tiny1_2021-11-21-8e0555fb-1_x86_64.ipk
-Size: 16422
-SHA256sum: d0eae0e7131d7ba96912af62225c2aff7fd2fc4e21352ab4a41e5219da375eea
+Size: 16386
+SHA256sum: 6a1a3fb698a2f826e285645d702a444655adc52e5a64d58f6b3a576218cdfa9b
 Description:  This package contains a stripped down version of libnl
 
 Package: libpopt0
@@ -452,10 +452,10 @@ SourceDateEpoch: 1654630618
 ABIVersion: 20220515
 Maintainer: Felix Fietkau <nbd@nbd.name>
 Architecture: x86_64
-Installed-Size: 21791
+Installed-Size: 21756
 Filename: libubox20220515_2022-05-15-d2223ef9-1_x86_64.ipk
-Size: 22561
-SHA256sum: ae9af03e4148e7b04222ecd68474cde504980eacbcd486b5d6c07760c2ecc257
+Size: 22515
+SHA256sum: e81cf076149d0e1fb85a2b849f62eaae67088b4704ac6269d4f990811a73618c
 Description:  Basic utility library
 
 Package: libubus20220601
