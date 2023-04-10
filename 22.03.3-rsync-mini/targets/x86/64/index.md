@@ -18,7 +18,7 @@
 | 🗄️ [openwrt-x86-64-generic-kernel.bin](./openwrt-x86-64-generic-kernel.bin) | 5.2M | |
 | 🗄️ [openwrt-x86-64-generic-rootfs.tar.gz](./openwrt-x86-64-generic-rootfs.tar.gz) | 5.4M | |
 | 🗄️ [openwrt-x86-64-generic-squashfs-combined-efi.img.gz](./openwrt-x86-64-generic-squashfs-combined-efi.img.gz) | 10M | |
-| 🗄️ [openwrt-x86-64-generic-squashfs-combined.img.gz](./openwrt-x86-64-generic-squashfs-combined.img.gz) | 9.9M | |
+| 🗄️ [openwrt-x86-64-generic-squashfs-combined.img.gz](./openwrt-x86-64-generic-squashfs-combined.img.gz) | 9.8M | |
 | 🗄️ [openwrt-x86-64-generic-squashfs-rootfs.img.gz](./openwrt-x86-64-generic-squashfs-rootfs.img.gz) | 4.3M | |
 | 🗄️ [openwrt-x86-64-generic.manifest](./openwrt-x86-64-generic.manifest) | 4.0K | |
 | 🗄️ [profiles.json](./profiles.json) | 4.0K | |
