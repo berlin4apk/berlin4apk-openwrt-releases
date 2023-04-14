@@ -1,5 +1,5 @@
 Package: base-files
-Version: 1501-r20125-1d4db4e4db
+Version: 1501-r20126-9af29da281
 Depends: libc, netifd, jsonfilter, usign, openwrt-keyring, fstools, fwtool
 Source: package/base-files
 SourceName: base-files
@@ -7,10 +7,10 @@ License: GPL-2.0
 Section: base
 SourceDateEpoch: 1681079724
 Architecture: mips_24kc
-Installed-Size: 57221
-Filename: base-files_1501-r20125-1d4db4e4db_mips_24kc.ipk
-Size: 58207
-SHA256sum: f21294478581f7bab75d319e508a74983edd39ad304088289b75136e44b11826
+Installed-Size: 57226
+Filename: base-files_1501-r20126-9af29da281_mips_24kc.ipk
+Size: 58212
+SHA256sum: 29fd941ca2b1b8d9785c30d2e20f50dcd98e30043247f499d9dbb5f4c09cc36a
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: dropbear

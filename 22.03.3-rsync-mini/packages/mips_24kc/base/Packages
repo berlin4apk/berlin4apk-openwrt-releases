@@ -9,8 +9,8 @@ Essential: yes
 Architecture: mips_24kc
 Installed-Size: 211782
 Filename: busybox_1.35.0-5_mips_24kc.ipk
-Size: 211754
-SHA256sum: f07fd55ec8684ae2502a35bcc595416585b3d2233e263d5a03d8240923240bfb
+Size: 211755
+SHA256sum: 18e727be3e4ae6c2a5b60e251d8e3dd6e6cae77a78eed8044f739cbe5834d15b
 Description:  The Swiss Army Knife of embedded Linux.
  It slices, it dices, it makes Julian Fries.
 
@@ -317,17 +317,17 @@ SHA256sum: 9e5b9876a464b842c1972f363c878692358f320f356525339519aa09b69c6547
 Description:  C library for the Unified Configuration Interface (UCI)
 
 Package: libuclient20201210
-Version: 2021-05-14-6a6011df-1
+Version: 2023-04-13-007d9454-1
 Depends: libc, libubox20220515
 Provides: libuclient
 License: ISC
 Section: libs
 ABIVersion: 20201210
 Architecture: mips_24kc
-Installed-Size: 9239
-Filename: libuclient20201210_2021-05-14-6a6011df-1_mips_24kc.ipk
-Size: 10054
-SHA256sum: e78742b7bbcd52e8995acffcb4c850e9ac887ddc9b9e32aa5171cd78fc4f30a5
+Installed-Size: 9232
+Filename: libuclient20201210_2023-04-13-007d9454-1_mips_24kc.ipk
+Size: 10044
+SHA256sum: ed88170fc0ff95b6674724628558345cc575a59d7cf4a6918ee3910a5d11f773
 Description:  HTTP/1.1 client library
 
 Package: libucode20220812
@@ -599,17 +599,17 @@ SHA256sum: 39b2657e24a2e94cf5c53cfc121776748f2294035a74151d333b765dc32bfeb6
 Description:  Utility for the Unified Configuration Interface (UCI)
 
 Package: uclient-fetch
-Version: 2021-05-14-6a6011df-1
+Version: 2023-04-13-007d9454-1
 Depends: libc, libuclient20201210
 Provides: wget
 Alternatives: 200:/usr/bin/wget:/bin/uclient-fetch
 License: ISC
 Section: net
 Architecture: mips_24kc
-Installed-Size: 7013
-Filename: uclient-fetch_2021-05-14-6a6011df-1_mips_24kc.ipk
-Size: 7842
-SHA256sum: 3403b629a09299189c080fd85edaac98e1240980a3bdadaf643bc590893f9288
+Installed-Size: 7014
+Filename: uclient-fetch_2023-04-13-007d9454-1_mips_24kc.ipk
+Size: 7839
+SHA256sum: 65a86a0581932f958aeac41229275f7ebb05d51e375b5fa677598ef6869a0e3d
 Description:  Tiny wget replacement using libuclient
 
 Package: ucode-mod-fs

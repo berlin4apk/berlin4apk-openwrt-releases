@@ -34,6 +34,7 @@
 | 🗄️ [libubus20220601_2022-06-01-2bebf93c-1_mips_24kc.ipk](./libubus20220601_2022-06-01-2bebf93c-1_mips_24kc.ipk) | 12K | |
 | 🗄️ [libuci20130104_2021-10-22-f84f49f0-6_mips_24kc.ipk](./libuci20130104_2021-10-22-f84f49f0-6_mips_24kc.ipk) | 16K | |
 | 🗄️ [libuclient20201210_2021-05-14-6a6011df-1_mips_24kc.ipk](./libuclient20201210_2021-05-14-6a6011df-1_mips_24kc.ipk) | 12K | |
+| 🗄️ [libuclient20201210_2023-04-13-007d9454-1_mips_24kc.ipk](./libuclient20201210_2023-04-13-007d9454-1_mips_24kc.ipk) | 12K | |
 | 🗄️ [libucode20220812_2022-12-02-46d93c9c-1_mips_24kc.ipk](./libucode20220812_2022-12-02-46d93c9c-1_mips_24kc.ipk) | 68K | |
 | 🗄️ [libustream-wolfssl20201210_2022-12-08-9217ab46-2_mips_24kc.ipk](./libustream-wolfssl20201210_2022-12-08-9217ab46-2_mips_24kc.ipk) | 8.0K | |
 | 🗄️ [libwolfssl5.5.4.ee39414e_5.5.4-stable-1_mips_24kc.ipk](./libwolfssl5.5.4.ee39414e_5.5.4-stable-1_mips_24kc.ipk) | 496K | |
@@ -55,6 +56,7 @@
 | 🗄️ [ubusd_2022-06-01-2bebf93c-1_mips_24kc.ipk](./ubusd_2022-06-01-2bebf93c-1_mips_24kc.ipk) | 12K | |
 | 🗄️ [uci_2021-10-22-f84f49f0-6_mips_24kc.ipk](./uci_2021-10-22-f84f49f0-6_mips_24kc.ipk) | 8.0K | |
 | 🗄️ [uclient-fetch_2021-05-14-6a6011df-1_mips_24kc.ipk](./uclient-fetch_2021-05-14-6a6011df-1_mips_24kc.ipk) | 8.0K | |
+| 🗄️ [uclient-fetch_2023-04-13-007d9454-1_mips_24kc.ipk](./uclient-fetch_2023-04-13-007d9454-1_mips_24kc.ipk) | 8.0K | |
 | 🗄️ [ucode-mod-fs_2022-12-02-46d93c9c-1_mips_24kc.ipk](./ucode-mod-fs_2022-12-02-46d93c9c-1_mips_24kc.ipk) | 12K | |
 | 🗄️ [ucode-mod-ubus_2022-12-02-46d93c9c-1_mips_24kc.ipk](./ucode-mod-ubus_2022-12-02-46d93c9c-1_mips_24kc.ipk) | 16K | |
 | 🗄️ [ucode-mod-uci_2022-12-02-46d93c9c-1_mips_24kc.ipk](./ucode-mod-uci_2022-12-02-46d93c9c-1_mips_24kc.ipk) | 8.0K | |

@@ -1,4 +1,4 @@
-base-files - 1501-r20125-1d4db4e4db
+base-files - 1501-r20126-9af29da281
 busybox - 1.35.0-5
 ca-bundle - 20211016-1
 dnsmasq - 2.86-16
@@ -76,7 +76,7 @@ libpthread - 1.2.3-4
 libubox20220515 - 2022-05-15-d2223ef9-1
 libubus20220601 - 2022-06-01-2bebf93c-1
 libuci20130104 - 2021-10-22-f84f49f0-6
-libuclient20201210 - 2021-05-14-6a6011df-1
+libuclient20201210 - 2023-04-13-007d9454-1
 libucode20220812 - 2022-12-02-46d93c9c-1
 libustream-wolfssl20201210 - 2022-12-08-9217ab46-2
 libwolfssl5.5.4.ee39414e - 5.5.4-stable-1
@@ -99,7 +99,7 @@ ubox - 2021-08-03-205defb5-2
 ubus - 2022-06-01-2bebf93c-1
 ubusd - 2022-06-01-2bebf93c-1
 uci - 2021-10-22-f84f49f0-6
-uclient-fetch - 2021-05-14-6a6011df-1
+uclient-fetch - 2023-04-13-007d9454-1
 ucode - 2022-12-02-46d93c9c-1
 ucode-mod-fs - 2022-12-02-46d93c9c-1
 ucode-mod-ubus - 2022-12-02-46d93c9c-1
