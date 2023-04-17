@@ -7,10 +7,10 @@ Section: base
 CPE-ID: cpe:/a:busybox:busybox
 Essential: yes
 Architecture: mips_24kc
-Installed-Size: 211782
+Installed-Size: 211783
 Filename: busybox_1.35.0-5_mips_24kc.ipk
-Size: 211757
-SHA256sum: b8f99a083d79875a1567baae6a4c62b80911c142327a582d511e2d1c361f856d
+Size: 211755
+SHA256sum: 127f4d6afa98fadb6cb2e2f198d8686bbc9c423c8bbc94bf3d9c049b6d67a662
 Description:  The Swiss Army Knife of embedded Linux.
  It slices, it dices, it makes Julian Fries.
 
