@@ -28,10 +28,10 @@ CPE-ID: cpe:/a:busybox:busybox
 Essential: yes
 Maintainer: Felix Fietkau <nbd@nbd.name>
 Architecture: x86_64
-Installed-Size: 231896
+Installed-Size: 231897
 Filename: busybox_1.33.2-2_x86_64.ipk
-Size: 232825
-SHA256sum: 1ea377e5fc7d2dde441aa5536e798a23e4a906ed81f6e2636afadc1a213367de
+Size: 232826
+SHA256sum: 54f095af6e6f53f28cde8404b111aeede93140bcbf0ab788eed165dab4a975c4
 Description:  The Swiss Army Knife of embedded Linux.
  It slices, it dices, it makes Julian Fries.
 
@@ -399,21 +399,21 @@ SHA256sum: 4b2887a20b581a5646e3b76ae73260e1d3863f131edf065c37a700d50f758cf3
 Description:  C library for the Unified Configuration Interface (UCI)
 
 Package: libuclient20201210
-Version: 2021-05-14-6a6011df-1
+Version: 2023-04-13-007d9454-1
 Depends: libc, libubox20210516
 Provides: libuclient
 Source: package/libs/uclient
 SourceName: libuclient
 License: ISC
 Section: libs
-SourceDateEpoch: 1621285393
+SourceDateEpoch: 1681412109
 ABIVersion: 20201210
 Maintainer: Felix Fietkau <nbd@nbd.name>
 Architecture: x86_64
 Installed-Size: 10585
-Filename: libuclient20201210_2021-05-14-6a6011df-1_x86_64.ipk
-Size: 11338
-SHA256sum: 48b50711fbcab2db2691f9ce7bc448fa7ee42940f0b30d1fa28f7fc62661932b
+Filename: libuclient20201210_2023-04-13-007d9454-1_x86_64.ipk
+Size: 11328
+SHA256sum: c8b76151fa284a489735329b04d4e309fbb76115b802d6bffa437be23544025a
 Description:  HTTP/1.1 client library
 
 Package: libustream-wolfssl20201210
@@ -759,7 +759,7 @@ SHA256sum: 4c4a9689fcfeaa2aff240cba3a66f274e8254690c9ef5b6b4aa6bfbaa7ba704e
 Description:  Utility for the Unified Configuration Interface (UCI)
 
 Package: uclient-fetch
-Version: 2021-05-14-6a6011df-1
+Version: 2023-04-13-007d9454-1
 Depends: libc, libuclient20201210
 Provides: wget
 Alternatives: 200:/usr/bin/wget:/bin/uclient-fetch
@@ -767,13 +767,13 @@ Source: package/libs/uclient
 SourceName: uclient-fetch
 License: ISC
 Section: net
-SourceDateEpoch: 1621285393
+SourceDateEpoch: 1681412109
 Maintainer: Felix Fietkau <nbd@nbd.name>
 Architecture: x86_64
-Installed-Size: 7153
-Filename: uclient-fetch_2021-05-14-6a6011df-1_x86_64.ipk
-Size: 7965
-SHA256sum: e45c58fdcc60f4278f2139a1f414b95f35f8f0945cc0e34904e5bbdef5cd90f8
+Installed-Size: 7152
+Filename: uclient-fetch_2023-04-13-007d9454-1_x86_64.ipk
+Size: 7954
+SHA256sum: 7b1aceaad3702f98fb4b72ed56837694389b70b1284f1920e145274c632ae46e
 Description:  Tiny wget replacement using libuclient
 
 Package: urandom-seed

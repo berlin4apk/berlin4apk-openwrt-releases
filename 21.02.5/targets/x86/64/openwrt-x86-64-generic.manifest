@@ -1,4 +1,4 @@
-base-files - 1449-r16841-cbe73ea33d
+base-files - 1451-r16847-f8282da11e
 bnx2-firmware - 20211216-1
 busybox - 1.33.2-2
 ca-bundle - 20211016-1
@@ -69,7 +69,7 @@ libss2 - 1.45.6-2
 libubox20210516 - 2021-05-16-b14c4688-2
 libubus20210630 - 2021-06-30-4fc532c8-2
 libuci20130104 - 2021-04-14-4b3db117-5
-libuclient20201210 - 2021-05-14-6a6011df-1
+libuclient20201210 - 2023-04-13-007d9454-1
 libustream-wolfssl20201210 - 2022-01-16-868fd881-2
 libuuid1 - 2.36.1-2
 libwolfssl5.5.3.99a5b54a - 5.5.3-stable-1
@@ -91,7 +91,7 @@ ubox - 2020-10-25-9ef88681-2
 ubus - 2021-06-30-4fc532c8-2
 ubusd - 2021-06-30-4fc532c8-2
 uci - 2021-04-14-4b3db117-5
-uclient-fetch - 2021-05-14-6a6011df-1
+uclient-fetch - 2023-04-13-007d9454-1
 urandom-seed - 3
 urngd - 2020-01-21-c7f7b6b6-1
 usign - 2020-05-23-f1f65026-1
