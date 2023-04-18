@@ -1,0 +1,77 @@
+Package: libacl
+Version: 2.3.1-1
+Depends: libc, libattr
+Source: feeds/packages/utils/acl
+SourceName: libacl
+License: LGPL-2.1 GPL-2.0
+LicenseFiles: doc/COPYING doc/COPYING.LGPL
+Section: libs
+SourceDateEpoch: 1616347947
+Maintainer: Maxim Storchak <m.storchak@gmail.com>
+Architecture: x86_64
+Installed-Size: 12007
+Filename: libacl_2.3.1-1_x86_64.ipk
+Size: 12783
+SHA256sum: c7a3d9df5431d09dd4d2e7d313a5f544119a61663ca76bbe73969146c633cc9e
+Description:  Access control list support
+ This package provides libacl
+
+Package: libattr
+Version: 2.5.1-1
+Depends: libc
+Source: feeds/packages/utils/attr
+SourceName: libattr
+License: LGPL-2.1-or-later
+LicenseFiles: doc/COPYING.LGPL
+Section: libs
+SourceDateEpoch: 1616347921
+Maintainer: Maxim Storchak <m.storchak@gmail.com>
+Architecture: x86_64
+Installed-Size: 6492
+Filename: libattr_2.5.1-1_x86_64.ipk
+Size: 7306
+SHA256sum: e7befe984ea5e9a96d2c74934cbae9bf1fec5935930a4218ae9508478f1cd27e
+Description:  Extended attributes support
+ This package provides libattr
+
+Package: libzstd
+Version: 1.5.2-1
+Depends: libc
+Source: feeds/packages/utils/zstd
+SourceName: libzstd
+License: GPL-2.0-or-later
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1646805187
+Architecture: x86_64
+Installed-Size: 329458
+Filename: libzstd_1.5.2-1_x86_64.ipk
+Size: 330087
+SHA256sum: 6c767364caa72626391466bb00ad42e5d0903b922fe603002477afd9eaee7628
+Description:  Zstandard - Fast real-time compression algorithm.
+ This package provides libzstd library.
+
+Package: rsync
+Version: 3.2.7-1
+Depends: libc, libpopt0, zlib, libattr, libacl, libzstd
+Source: feeds/packages/net/rsync
+SourceName: rsync
+License: GPL-3.0-or-later
+LicenseFiles: COPYING
+Section: net
+SourceDateEpoch: 1668415653
+CPE-ID: cpe:/a:rsync:rsync
+Maintainer: Maxim Storchak <m.storchak@gmail.com>
+Architecture: x86_64
+Installed-Size: 196990
+Filename: rsync_3.2.7-1_x86_64.ipk
+Size: 198106
+SHA256sum: 4523a476f6c5c7a7b79602bdeed0bbbfcddcd9254128f7a46965e786312f48be
+Description:  rsync is a program that allows files to be copied to and from remote machines
+ in much the same way as rcp. It has many more options than rcp, and uses the
+ rsync remote-update protocol to greatly speed up file transfers when the
+ destination file already exists.
+ 
+ The rsync remote-update protocol allows rsync to transfer just the differences
+ between two sets of files across the network link.
+
