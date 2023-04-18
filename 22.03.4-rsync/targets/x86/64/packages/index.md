@@ -12,6 +12,7 @@
 | 🗄️ [Packages.manifest](./Packages.manifest) | 28K | |
 | 🗄️ [Packages.sig](./Packages.sig) | 4.0K | |
 | 🗄️ [base-files_1501-r20128-b6cbab1ad7_x86_64.ipk](./base-files_1501-r20128-b6cbab1ad7_x86_64.ipk) | 48K | |
+| 🗄️ [base-files_1501-r20129-bf81a92171_x86_64.ipk](./base-files_1501-r20129-bf81a92171_x86_64.ipk) | 48K | |
 | 🗄️ [dropbear_2022.82-2_x86_64.ipk](./dropbear_2022.82-2_x86_64.ipk) | 112K | |
 | 🗄️ [fstools_2022-06-02-93369be0-2_x86_64.ipk](./fstools_2022-06-02-93369be0-2_x86_64.ipk) | 20K | |
 | 🗄️ [fwtool_2019-11-12-8f7fe925-1_x86_64.ipk](./fwtool_2019-11-12-8f7fe925-1_x86_64.ipk) | 8.0K | |

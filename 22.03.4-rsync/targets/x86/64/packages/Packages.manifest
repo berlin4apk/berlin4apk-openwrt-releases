@@ -1,5 +1,5 @@
 Package: base-files
-Version: 1501-r20128-b6cbab1ad7
+Version: 1501-r20129-bf81a92171
 Depends: libc, netifd, jsonfilter, usign, openwrt-keyring, fstools, fwtool
 Source: package/base-files
 SourceName: base-files
@@ -7,10 +7,10 @@ License: GPL-2.0
 Section: base
 SourceDateEpoch: 1681079724
 Architecture: x86_64
-Installed-Size: 45596
-Filename: base-files_1501-r20128-b6cbab1ad7_x86_64.ipk
-Size: 46576
-SHA256sum: ad0e159b495c699e727f43fd5b72297d90a73f8d5ab5313a14123c19ecb46afc
+Installed-Size: 45598
+Filename: base-files_1501-r20129-bf81a92171_x86_64.ipk
+Size: 46577
+SHA256sum: a3102a5a29d4e7e5338c8168bb1effa708aaefb867f3cb9a887326d66881069d
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: dropbear
