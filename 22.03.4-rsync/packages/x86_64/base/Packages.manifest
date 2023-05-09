@@ -30,8 +30,8 @@ Maintainer: Felix Fietkau <nbd@nbd.name>
 Architecture: x86_64
 Installed-Size: 231285
 Filename: busybox_1.35.0-5_x86_64.ipk
-Size: 232208
-SHA256sum: d9b5d836ae46e659be3432019611446ddc755daf893da2e12b90318da578c8e6
+Size: 232199
+SHA256sum: 0e6c115d5dcc9a5c9f291ff8ed2a2fcd508e6d4b8268bcca9a970e605535ce48
 Description:  The Swiss Army Knife of embedded Linux.
  It slices, it dices, it makes Julian Fries.
 
